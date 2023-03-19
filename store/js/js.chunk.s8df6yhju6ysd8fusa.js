@@ -1,0 +1,1 @@
+document.write('<link rel="icon" type="x-icon" href="logo/blackollielogo.png">');
