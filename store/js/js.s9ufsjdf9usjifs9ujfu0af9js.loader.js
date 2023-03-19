@@ -17,7 +17,7 @@ document.write('                        <p class="normal-font" style="text-align
 document.write('                        <button class="pick">Choose</button>');
 document.write('                        <h1 class="bold-font" style="text-align: center;">Physical Card</h1>');
 document.write('                        <p class="normal-font" style="text-align: center;">Get a Card Online or from a Nearby Guinea-Store.</p>');
-document.write('                        <button class="pick">Choose</button>');
+document.write('                        <a href="https://my-store-de0b5d.creator-spring.com"><button class="pick">Choose</button></a>');
 document.write('                    </div>');
 document.write('                </div>');
 document.write('                <p class="normal-font" style="text-align: center;width: 200px;margin-left: auto;margin-right: auto;">By buying this card, you are Accepting the <a href="https://totallynottg.github.io/en.help.tgblox/terms/terms-of-service" style="color:black;">Terms of Service</a> From Ollieblox.</p>');
